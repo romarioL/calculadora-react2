@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/calculadora-react2/static/css/main.9c015d33.chunk.css",
+    "main.js": "/calculadora-react2/static/js/main.b2de6187.chunk.js",
+    "main.js.map": "/calculadora-react2/static/js/main.b2de6187.chunk.js.map",
+    "runtime-main.js": "/calculadora-react2/static/js/runtime-main.01b797a4.js",
+    "runtime-main.js.map": "/calculadora-react2/static/js/runtime-main.01b797a4.js.map",
+    "static/js/2.540ab3bc.chunk.js": "/calculadora-react2/static/js/2.540ab3bc.chunk.js",
+    "static/js/2.540ab3bc.chunk.js.map": "/calculadora-react2/static/js/2.540ab3bc.chunk.js.map",
+    "index.html": "/calculadora-react2/index.html",
+    "precache-manifest.417f008a3d2b4b8c96e0f1f31e530af8.js": "/calculadora-react2/precache-manifest.417f008a3d2b4b8c96e0f1f31e530af8.js",
+    "service-worker.js": "/calculadora-react2/service-worker.js",
+    "static/css/main.9c015d33.chunk.css.map": "/calculadora-react2/static/css/main.9c015d33.chunk.css.map",
+    "static/js/2.540ab3bc.chunk.js.LICENSE.txt": "/calculadora-react2/static/js/2.540ab3bc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/calculadora-react2/static/media/RobotoMono-Regular.b4618f1f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01b797a4.js",
+    "static/js/2.540ab3bc.chunk.js",
+    "static/css/main.9c015d33.chunk.css",
+    "static/js/main.b2de6187.chunk.js"
+  ]
+}
